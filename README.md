@@ -4,8 +4,8 @@
 ---
 
 ## 📁 Dataset  
-- Source: [Kaggle – S&P 500 Stock Data]([https://www.kaggle.com/](https://www.kaggle.com/datasets/keehyung/mit5742-sp500-stock-value-dataset))  
-- Contains historical stock data for 500+ companies including Open, High, Low, Close, Adj Close, and Volume.
+Source: [Kaggle – S&P 500 Stock Data](https://www.kaggle.com/datasets/keehyung/mit5742-sp500-stock-value-dataset) 
+- Contains stock data from 2020 to 2024 for 500+ companies including Open, High, Low, Close, Adj Close, and Volume.
 
 ---
 

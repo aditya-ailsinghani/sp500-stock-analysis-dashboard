@@ -60,7 +60,7 @@ An interactive Tableau dashboard allows users to:
   - 🔴 Most Volatile  
   - 📈 Highest RSI  
 
-🔗 **[View Dashboard on Tableau Public](your-tableau-link-here)**
+🔗 **[View Dashboard on Tableau Public]([your-tableau-link-here](https://public.tableau.com/app/profile/aditya.ailsnghani/viz/SP500Dashboard_17481212663870/Dashboard1))**
 
 ---
 
@@ -87,4 +87,4 @@ MIT License
 ---
 
 ## 📬 Contact  
-Created by *[Your Name]* — feel free to reach out on [LinkedIn/GitHub link]
+Created by *Aditya Ailsinghani* — feel free to connect on [LinkedIn](https://www.linkedin.com/in/aditya-ailsinghani/)

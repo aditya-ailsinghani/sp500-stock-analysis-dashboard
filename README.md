@@ -4,8 +4,10 @@
 ---
 
 ## 📁 Dataset  
-Source: [Kaggle – S&P 500 Stock Data](https://www.kaggle.com/datasets/keehyung/mit5742-sp500-stock-value-dataset) 
+Source: [Kaggle – S&P 500 Stock Data](https://www.kaggle.com/datasets/keehyung/mit5742-sp500-stock-value-dataset)  
 - Contains stock data from 2020 to 2024 for 500+ companies including Open, High, Low, Close, Adj Close, and Volume.
+
+> 📌 Note: The dataset is not included in this repo due to size constraints. You can download it directly from Kaggle and place it in the working directory as `sp500.csv` to run the notebook.
 
 ---
 
@@ -60,7 +62,7 @@ An interactive Tableau dashboard allows users to:
   - 🔴 Most Volatile  
   - 📈 Highest RSI  
 
-🔗 **[View Dashboard on Tableau Public]([your-tableau-link-here](https://public.tableau.com/app/profile/aditya.ailsnghani/viz/SP500Dashboard_17481212663870/Dashboard1))**
+🔗 **[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/aditya.ailsnghani/viz/SP500Dashboard_17481212663870/Dashboard1)**
 
 ---
 
@@ -73,11 +75,11 @@ An interactive Tableau dashboard allows users to:
 ---
 
 ## 🚀 How to Reproduce  
-1. Clone this repo  
-2. Run `analysis.ipynb` to preprocess and generate indicators  
-3. Open `sp500_dashboard.twb` in Tableau Public  
-4. Load `sp500.csv` as data source  
-5. Interact with filters and metrics in dashboard view
+1. Clone this repository  
+2. Download the dataset from Kaggle and place it in the root folder as `sp500.csv`  
+3. Run `StockPrice.ipynb` to generate moving averages, RSI, and volatility indicators  
+4. (Optional) Export the processed CSV and load it into Tableau to build your own dashboard  
+5. Alternatively, explore the live dashboard using the link above
 
 ---
 

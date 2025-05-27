@@ -63,6 +63,7 @@ An interactive Tableau dashboard allows users to:
   - 📈 Highest RSI  
 
 🔗 **[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/aditya.ailsnghani/viz/SP500Dashboard_17481212663870/Dashboard1)**
+> ![Tableau Dashboard](images/dashboard.png) 
 
 ---
 
